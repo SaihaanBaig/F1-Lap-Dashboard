@@ -29,9 +29,15 @@ This Streamlit-based dashboard provides interactive visualizations and insights 
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Launch the App on Streamlit](https://f1-lap-dashboard.streamlit.app/)
+
+---
+
 ## 📦 Installation
 
-1. **Clone the repository:**
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/SaihaanBaig/F1-Lap-Dashboard.git
